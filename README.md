@@ -1,9 +1,9 @@
 ## Hi I'm Katya
 
-#Data Science / Data Analytics <br/>
-#I teach LLM models to talk back <br/>
-#I'm currently learning LangChain <br/>
-#MSc in Mathematics and Statistics <br/>
+Data Science / Data Analytics <br/>
+ :school_satchel: I teach LLM models to talk back <br/>
+I'm currently learning LangChain <br/>
+MSc in Mathematics and Statistics <br/>
 
 
 ## 🌐 Socials:
