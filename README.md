@@ -1,4 +1,4 @@
-## Hi I'm Katya
+## Hi I'm Kat
 
 :waxing_crescent_moon:Data Science / Data Analytics <br/>
  :first_quarter_moon:I teach LLM models to talk back <br/>
