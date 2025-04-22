@@ -1,7 +1,7 @@
 ## Hi I'm Kat
 
 :waxing_crescent_moon:Data Science / Data Analytics <br/>
- :first_quarter_moon:I teach LLM models to talk back <br/>
+ :first_quarter_moon:I teach LLM models to joke <br/>
  :waxing_gibbous_moon:I'm currently learning LangChain <br/>
 :full_moon:MSc in Mathematics and Statistics <br/>
 
