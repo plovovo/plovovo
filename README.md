@@ -1,9 +1,9 @@
 ## Hi I'm Katya
 
-Data Science / Data Analytics <br/>
- :school_satchel: I teach LLM models to talk back <br/>
-I'm currently learning LangChain <br/>
-MSc in Mathematics and Statistics <br/>
+:waxing_crescent_moon:Data Science / Data Analytics <br/>
+ :first_quarter_moon:I teach LLM models to talk back <br/>
+ :waxing_gibbous_moon:I'm currently learning LangChain <br/>
+:full_moon:MSc in Mathematics and Statistics <br/>
 
 
 ## 🌐 Socials:
